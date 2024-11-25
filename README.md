@@ -140,8 +140,8 @@
             <p>Entre em contato conosco para saber mais sobre nossos produtos ou parcerias.</p>
             <ul>
                 <li>Email: contato@naturarte.com</li>
-                <li>Telefone: (91) 99999-9999</li>
-                <li>Endereço: Rua das Artes, 123, Barcarena, Pará</li>
+                <li>Telefone: (91) 98499-5094</li>
+                <li>Endereço: Rodovia Moura Carvalho, s/n, bairro Cafezal, Barcarena, Pará</li>
             </ul>
             <div class="social">
                 <a href="https://facebook.com" target="_blank">Facebook</a>
